@@ -1,3 +1,3 @@
 # the_taste_of_wondering
 边走边吃
-test 1234555    ggfgfg
+This is a selection of ABU's travel and culianary adventures, featuring the way how people live, eat, migrate and love. 
