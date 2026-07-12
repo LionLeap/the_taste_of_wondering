@@ -1,7 +1,6 @@
-<div style="color: #00008B; font-family: 'STZhongsong', 'SimSun', serif;">
-
-# 边走边吃：香港烧鹅三吃 1</div>
-
+<h1 style="color: #00008B; font-family: 'STZhongsong', 'SimSun', serif;">
+  边走边吃：香港烧鹅三吃 1
+</h1>
 <div style="color: #000000; font-family: 'STZhongsong', 'SimSun', serif;font-size: 18px;">
 
 香港回归时，阿布还在内地念中学，关于香港的印象，大多来自电视里反复播放的画面：玻璃幕墙反光的写字楼，密集得像是贴在一起的霓虹灯，还有人群里那种不自觉加快的步伐。她没有去过，但那种繁华在心里是有温度的，是年轻人充满热力的想望。
