@@ -28,4 +28,4 @@
 本书内容采用 CC BY-NC-ND 4.0 授权，转载请注明出处，未经许可不得用于商业用途或改编。
 
 ## Table of Contents
-* [Chapter 1: 边走边吃香港烧鹅三吃-1](./chapters/chapter1.md#边走边吃香港烧鹅三吃-1)
+* [Chapter 1: 边走边吃香港烧鹅三吃-1](./chapter1.md#边走边吃香港烧鹅三吃-1)
