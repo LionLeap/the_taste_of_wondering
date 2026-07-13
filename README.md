@@ -28,5 +28,14 @@
 本书内容采用 CC BY-NC-ND 4.0 授权，转载请注明出处，未经许可不得用于商业用途或改编。
 
 ## Table of Contents
-[Chapter 1: 香港烧鹅三吃1](./01.md)
+[Chapter 1: 香港烧鹅三吃1](./01.md)  
 [Chapter 2: 波兰甜饺子](./02.md)
+[Chapter 3: 首尔河蚌汤](./03.md)  
+[Chapter 4: 纽伦堡巴伐力亚菜](./04.md)     
+[Chapter 5: 新加坡与胡椒蟹](./05.md)  
+[Chapter 6: 古巴的社会主义餐厅](./06.md)  
+[Chapter 7: 都柏林的海与鱼](./07.md)  
+[Chapter 8: 波兰甜饺子](./08.md)  
+[Chapter 9: 波兰甜饺子](./09.md)  
+[Chapter 10: 波兰甜饺子](./10.md)  
+[Chapter 11: 波兰甜饺子](./11.md)  
