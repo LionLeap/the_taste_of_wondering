@@ -29,3 +29,4 @@
 
 ## Table of Contents
 [Chapter 1: 香港烧鹅三吃1](./01.md)
+[Chapter 2: 波兰甜饺子](./02.md)
