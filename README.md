@@ -49,7 +49,7 @@
 [Chapter 19: 香港烧鹅三吃之3](./19.md)  
 [Chapter 20: 冰岛的极光与鳕鱼](./20.md)  
 [Chapter 21: 胡志明的香草与夏卷](./21.md)   
-[Chapter 22: 披萨发源地和披萨](./22.md) 
+[Chapter 22: 披萨发源地和披萨](./22.md)   
 [Chapter 23: 马赛鱼汤（Bouillabaisse)](./23.md)   
 [Chapter 24: 瑞士少女峰的奶酪火锅](./24.md)   
 [Chapter 21: 胡志明的香草与夏卷](./25.md)      
